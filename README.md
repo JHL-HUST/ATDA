@@ -7,7 +7,7 @@ openreview report: https://openreview.net/forum?id=SyfIfnC5Ym
 
 ###### REQUIREMENTS
 
-The code was tested with Python 3.6.5, Tensorflow 1.8.0, Keras 2.12, Keras_contrib 0.0.2,  Torchvision 0.2.1 and Numpy 1.14.3. 
+The code was tested with Python 3.6.5, Tensorflow 1.8.0, Keras 2.1.2, Keras_contrib 0.0.2,  Torchvision 0.2.1 and Numpy 1.14.3. 
 
 ###### EXPERIMENTS
 
